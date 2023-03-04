@@ -1,16 +1,17 @@
 from data.utterance import Utterance, Utterances
 import csv
 
-def preprocess(csv_path):
+def i0_preprocess(csv_path, export=True):
     """
     """
     utterances = Utterances(csv_path)
     idxs = create_i0_indices(utterances)
     utterances = add_i0_to_utterances(idxs, utterances)
 
+    if export:
     # TODO: call export csv to save i0, temp simply print
-    for i, i0 in idxs.items():
-        print(" ".join(i0))
+        for i, i0 in idxs.items():
+            print(" ".join(i0))
     return utterances
 
 def create_i0_indices(utterances: Utterances):
