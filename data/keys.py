@@ -1,3 +1,4 @@
+# TODO: Change to match headers/keys for proper dataset (processed or unprocessed, or combination?)
 ID_KEY = "id"
 TIMESTAMP_KEY = "timestamp"
 TEXT_KEY = "text"

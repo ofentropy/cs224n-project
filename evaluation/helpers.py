@@ -1,8 +1,8 @@
-# from nltk import pos_tag_sents
+from nltk import pos_tag_sents
 # may need to install nltk packages first!
 from data.naive_preprocess import normalize
 from data.utterance import Utterance
-from model_utterance import ModelUtterances
+from model_utterance import ModelUtterances, ModelUtterance
 from math import lcm
 import csv
 
@@ -27,11 +27,19 @@ def calculate_disfluent_grammar_pattern(disfluencies):
     # TODO: figure out how to calculate disfluent grammar pattern top 5
     pass
 
-def compare_insertion_points(test, reference: Utterance):
+def compare_insertion_points(test: ModelUtterance, reference: Utterance, strict=True):
     # TODO: compare the arrays of insertion points
+    test_idxs = test.disfluent_insertion_idxs
+    ref_idxs = reference.disfluent_insertion_idxs
+
+    if not strict:
+        pass
+    else:
+        pass
+        
     pass
 
-def compare_disfluent_ratio(test, reference: Utterance):
+def compare_disfluent_ratio(test: ModelUtterance, reference: Utterance):
     # TODO: figure out how to compare ratios
     pass
     #test_ratio = calculate_ratio_of_disfluent_words(test)
@@ -46,6 +54,6 @@ def compare_disfluent_ratio(test, reference: Utterance):
     #else:
     #    pass 
 
-def compare_disfluent_grammar(test, reference: Utterance):
+def compare_disfluent_grammar(test: ModelUtterance, reference: Utterance):
     # TODO: compare disfluent grammar
     pass
