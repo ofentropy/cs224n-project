@@ -29,10 +29,11 @@ class LARDSentences:
     def from_metadata(self, metadatas: list):
         for metadata in metadatas:
             sentence = LARDSentence(metadata)
-            self.sentences_list.append(sentence)
-            sentences = self.sentences.get(metadata["id"], [])
-            sentences.append(sentence)
-            self.sentences[metadata["id"]] = sentences
+            if "I" in sentence.i0: # skip sentences that do not have disfluencies
+                self.sentences_list.append(sentence)
+                sentences = self.sentences.get(metadata["id"], [])
+                sentences.append(sentence)
+                self.sentences[metadata["id"]] = sentences
         return self
 
     def from_csv(self, csv_path: str, ret=True):
@@ -40,10 +41,11 @@ class LARDSentences:
             reader = csv.DictReader(csvfile)
             for row in reader:
                 sentence = LARDSentence(row)
-                self.sentences_list.append(sentence)
-                sentences = self.sentences.get(row["id"], [])
-                sentences.append(sentence)
-                self.sentences[row["id"]] = sentences
+                if "I" in sentence.i0: # skip sentences that do not have disfluencies
+                    self.sentences_list.append(sentence)
+                    sentences = self.sentences.get(row["id"], [])
+                    sentences.append(sentence)
+                    self.sentences[row["id"]] = sentences
         return self
     
     def __add__(self, val2):
