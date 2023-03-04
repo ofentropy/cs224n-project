@@ -86,7 +86,7 @@ def average_bleu_disfl_parts(outputs: dict):
             reference = get_disfluent_parts(output["disfluent_original"].split(), output["i0_indexing"].split())
             if not reference:
                 reference = [""]
-            bleu = sentence_bleu(reference, hypothesis)
+            bleu = sentence_bleu([reference], hypothesis)
             # print(bleu)
             bleu_sum_per_id += bleu
           else:
@@ -108,7 +108,7 @@ def average_bleu_disfl_sentence(outputs: dict):
           if not hypothesis:
               nons += 1
           else:
-            bleu = sentence_bleu(reference, hypothesis)
+            bleu = sentence_bleu([reference], hypothesis)
             # print(bleu)
             bleu_sum_per_id += bleu
         bleu_sum_per_id /= len(output_arrays)
