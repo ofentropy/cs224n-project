@@ -17,20 +17,19 @@ def create_i0_indices(utterances: Utterances):
     all_i0_indices = {}
     for id, utterance in utterances.utterances.items():
         fluent = utterance.fluent
-        dis_idxs = utterance.disfluent_insertion_idxs
-        dis_words = utterance.disfluent_words
-
+        dis_idxs = []
+        if utterance.disfluent_insertion_idxs[0] != '':
+            dis_idxs = [int(i) for i in utterance.disfluent_insertion_idxs]
+        dis_words = [i for i in utterance.disfluent_words if i]
         total_words = len(fluent) + sum([len(arr) for arr in dis_words])
         i0_indices = ["0"] * len(fluent)
         dis_idxs.sort(reverse=True)
-        for i, idx_str in enumerate(dis_idxs):
-            if idx_str != '':
-                idx = int(idx_str)
-                n = len(dis_words[-(i+1)])
-                if idx >= len(fluent):
-                    i0_indices += ["I"] * n
-                else:
-                    i0_indices[idx:idx] = ["I"] * n
+        for i, idx in enumerate(dis_idxs):
+            n = len(dis_words[-(i+1)])
+            if idx >= len(fluent):
+                i0_indices += ["I"] * n
+            else:
+                i0_indices[idx:idx] = ["I"] * n
         all_i0_indices[id] = i0_indices
         assert len(i0_indices) == total_words
     return all_i0_indices
