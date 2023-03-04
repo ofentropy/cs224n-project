@@ -3,6 +3,9 @@ from python_files.disfluency_generation import LARD # requires https://github.co
 from nltk.translate.bleu_score import sentence_bleu # requires installing nltk
 import csv
 
+import nltk
+nltk.download('wordnet')
+
 lard = LARD()
 
 def lard_output_to_dict(lard_output, i0_indexing, id, disfluent_original):
