@@ -1,0 +1,172 @@
+but	uh	that	that	sold	me	in	buying	a	new	car	you	know	i	mean	certainly	interested	in	buying	a	new	car	but	again	the	yeah	the	american	cars	were	for	superior	in	styling	and
+CC	UH	IN	DT	VBD	PRP	IN	VBG	DT	JJ	NN	PRP	VBP	JJ	VBP	RB	JJ	IN	VBG	DT	JJ	NN	CC	RB	DT	NN	DT	JJ	NNS	VBD	IN	JJ	IN	NN	CC
+I	I	I	0	0	0	0	0	0	0	0	I	I	I	I	0	0	0	0	0	0	0	0	0	I	I	0	0	0	0	0	0	0	0	0
+
+well	it	's	getting
+IN	PRP	VBZ	VBG
+I	0	0	0
+
+it	is	and	and	i	do	n't	know	if	it	's	uh	the	family	you	know	thing	where	they	're	not	bonding	anymore	where	mothers	are	working	all	the	time	and	the	kids	are	n't	getting	the	attention	that	they	need	or	the	television
+PRP	VBZ	CC	CC	VB	VBP	RB	VB	IN	PRP	VBZ	JJ	DT	NN	PRP	VBP	NN	WRB	PRP	VBP	RB	VBG	RB	WRB	NNS	VBP	VBG	PDT	DT	NN	CC	DT	NNS	VBP	RB	VBG	DT	NN	IN	PRP	VBP	CC	DT	NN
+0	0	I	I	I	I	I	I	I	I	I	I	0	0	I	I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+and	i	i	really	think	that	we	're	we	're	falling	by	the	wayside	with	not	incarcerating	these	people
+CC	NN	VBP	RB	VBP	IN	PRP	VBP	PRP	VBP	VBG	IN	DT	NN	IN	RB	VBG	DT	NNS
+0	0	0	I	0	0	0	0	0	I	I	0	0	0	0	0	0	0	0
+
+yeah
+NN
+I
+
+it	is	an	old	farm	house	and	uh	we	really	like	it	here
+PRP	VBZ	DT	JJ	NN	NN	CC	NN	PRP	RB	IN	PRP	RB
+0	0	0	0	0	0	0	I	0	0	0	0	0
+
+oh	i	like	scary	ones	that	are	realistic
+UH	NN	IN	JJ	NNS	WDT	VBP	JJ
+I	0	0	0	0	0	0	0
+
+yeah	what	what	does	a	computer	club	do
+VB	WP	WP	VBZ	DT	NN	NN	VBP
+I	I	0	0	0	0	0	0
+
+i	did	n't	know	there	were	such	things
+NN	VBD	RB	VB	EX	VBD	JJ	NNS
+0	0	0	0	0	0	0	0
+
+is	that	is	that	how	you	got	into	this	uh	this	you	know	uh	data	base
+VBZ	DT	VBZ	IN	WRB	PRP	VBD	IN	DT	NN	DT	PRP	VBP	JJ	NNS	NN
+0	0	I	I	0	0	0	0	0	I	I	I	I	0	0	0
+
+yeah	that	's	right
+NN	WDT	VBZ	JJ
+I	0	0	0
+
+that	's	why	i	do	n't	get	to	watch	that	much
+DT	VBZ	WRB	JJ	VBP	RB	VB	TO	VB	IN	JJ
+0	0	0	0	0	0	0	0	0	0	0
+
+i	mean	i	watch	nine	o'clock	i	do	okay	because	the	kids	are	all	in	bed	but	before	that	i	really	there	's	not	much	time
+JJ	VBP	JJ	VBP	CD	NN	NNS	VBP	RB	IN	DT	NNS	VBP	DT	IN	NN	CC	IN	DT	NN	RB	EX	VBZ	RB	JJ	NN
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+or	like	at	six	thirty	i	'll	watch	wheel	of	fortune	or	something	like	that
+CC	VB	IN	CD	NN	NN	MD	VB	NN	IN	NN	CC	NN	IN	DT
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+well	it	was	within	oh	ninety	days
+RB	PRP	VBD	IN	JJ	NN	NNS
+0	0	0	0	I	0	0
+
+it	's	also	i	used	to	live	in	georgia	and	you	know	the	the	big	thing	down	there	was	all	right	we	have	capital	punishment	but	if	you	look	at	who	gets	accused	and	who	are	the	ones	who	actually	get	executed	it	's	very	racially	related	and	ethnically	related
+PRP	VBZ	RB	RB	VBN	TO	VB	IN	NN	CC	PRP	VBP	DT	DT	JJ	NN	RP	RB	VBD	DT	NN	PRP	VBP	JJ	NN	CC	IN	PRP	VBP	IN	WP	VBZ	VBN	CC	WP	VBP	DT	NNS	WP	RB	VBP	VBN	PRP	VBZ	RB	RB	VBN	CC	RB	JJ
+I	I	I	0	0	0	0	0	0	0	I	I	I	0	0	0	0	0	0	I	I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+all	righty	well	thank	you
+DT	VBP	RB	IN	PRP
+I	I	I	0	0
+
+it	was	nice	talking	to	you
+PRP	VBD	JJ	VBG	TO	PRP
+0	0	0	0	0	0
+
+yeah	they	just	really	ca	n't	wait	to	be	able	to	take	their	kids	where	they	had	fun
+NN	PRP	RB	RB	MD	RB	VB	TO	VB	JJ	TO	VB	PRP$	NNS	WRB	PRP	VBD	NN
+I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+i	did	very	much	the	same	thing	until	my	boys	got	into	high	school	and	said	mom	please	do	not	be	involved
+NN	VBD	RB	RB	DT	JJ	NN	IN	PRP$	NNS	VBD	IN	JJ	NN	CC	VBD	NN	NN	VB	RB	VB	VBN
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+then	i	went	back	to	work
+RB	VB	VBD	RB	TO	VB
+0	0	0	0	0	0
+
+yeah
+NN
+I
+
+um	what	i	what	i	'm	trying	to	do	is	i	've	got	yellow	tile	in	both	the	bathrooms	so	i	want	something	that	's	going	to	tie	that	together	and	i	'm	changing	the	like	the	towel	racks	and	stuff	the	the	fixtures	out	to	make	them	wood	i	'm	going	to	put	wood	in	there
+IN	WP	VBP	WP	VBP	VBP	VBG	TO	VB	VBZ	JJ	VBP	VBN	JJ	NN	IN	CC	DT	NNS	RB	JJ	VBP	NN	WDT	VBZ	VBG	TO	VB	IN	RB	CC	VB	VBP	VBG	DT	IN	DT	NN	NNS	CC	VB	DT	DT	NNS	RP	TO	VB	PRP	NN	NN	VBP	VBG	TO	VB	NN	IN	EX
+I	I	I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	I	I	0	0	0	0	0	I	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+right	exactly
+RB	RB
+0	0
+
+and	i	think	it	's	important	that	they	you	know	they	allow	a	good	number	of	people	in	every	year	because	really	they	're	the	ones	who	work	the	hardest	and	do	the	jobs	that	that	we	do	n't	want	to	do
+CC	NN	VBP	PRP	VBZ	JJ	IN	PRP	PRP	VBP	PRP	VBP	DT	JJ	NN	IN	NNS	IN	DT	NN	IN	RB	PRP	VBP	DT	NNS	WP	VBP	DT	JJS	CC	VBP	DT	NNS	IN	DT	PRP	VBP	RB	VB	TO	VB
+0	0	0	0	0	0	0	0	I	I	I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	I	0	0	0	0	0	0
+
+and	i	just	i	do	n't	know	i	have	personally	i	have	a	problem	with	it	i	think	that	you	know	if	someone	wants	to	come	in	and	they	can	prove	that	they	're	going	to	work	and	they	're	going	to	be	a	good	citizen	that	we	should	n't	close	our	door
+CC	VB	RB	RB	VBP	RB	VB	NNS	VBP	RB	VBN	VBP	DT	NN	IN	PRP	VBZ	VBP	IN	PRP	VBP	IN	NN	VBZ	TO	VB	IN	CC	PRP	MD	VB	IN	PRP	VBP	VBG	TO	VB	CC	PRP	VBP	VBG	TO	VB	DT	JJ	NN	IN	PRP	MD	RB	VB	PRP$	NN
+0	I	I	I	I	I	I	I	I	0	0	0	0	0	0	0	I	I	I	I	I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+i	have	n't	read	that
+NNS	VBP	RB	VB	IN
+0	0	0	0	0
+
+there	you	go
+RB	PRP	VBP
+0	0	0
+
+yep	they	went	out	and	bought	us	a	piano	and	for	three	months
+NN	PRP	VBD	RP	CC	VBD	PRP	DT	NN	CC	IN	CD	NNS
+0	0	0	0	0	0	0	0	0	0	0	0	0
+
+they	've	got	these	wh	it	's	it	's	county	wide	program	now
+PRP	VBP	VBN	DT	IN	PRP	VBZ	PRP	VBZ	JJ	JJ	NN	RB
+0	0	0	0	I	I	I	0	0	0	0	0	0
+
+and	what	they	've	done	is	they	've	broken	everything	down	into	garbage
+CC	WP	PRP	VBP	VBN	VBZ	PRP	VBP	VBN	NN	RP	IN	NN
+0	0	0	0	0	0	0	0	0	0	0	0	0
+
+uh	yard	trash
+JJ	NN	NN
+I	0	0
+
+plastic	cr	cans	and	glass
+NN	NN	NNS	CC	NN
+0	I	0	0	0
+
+and	then	uh	paper
+CC	RB	JJ	NN
+0	0	I	0
+
+which	in	the	paper	it	's	just	uh	newspaper	and	corrugated	cardboard
+WDT	IN	DT	NN	PRP	VBZ	RB	JJ	NN	CC	JJ	NN
+0	0	0	0	0	0	0	I	0	0	0	0
+
+is	the	only	thing	you	're	supposed	to	put	in	there
+VBZ	DT	JJ	NN	PRP	VBP	VBN	TO	VB	IN	RB
+0	0	0	0	0	0	0	0	0	0	0
+
+no	slicks
+DT	NNS
+0	0
+
+uh
+NN
+I
+
+yeah	that	's	true
+NN	DT	VBZ	JJ
+I	0	0	0
+
+i	mean	you	ca	n't	just	come	over	to	the	country	because	uh	you	want	to
+JJ	VBP	PRP	MD	RB	RB	VBN	IN	TO	DT	NN	IN	IN	PRP	VBP	TO
+I	I	0	0	0	0	0	0	0	0	0	0	I	0	0	0
+
+you	know	that	's	not	good	enough
+PRP	VBP	DT	VBZ	RB	JJ	RB
+I	I	0	0	0	0	0
+
+you	have	to	have	a	have	to	have	a	darn	good	reason	of	political	or	whatever
+PRP	VBP	TO	VB	DT	VBP	TO	VB	DT	NN	JJ	NN	IN	JJ	CC	WDT
+0	0	0	0	0	I	I	I	I	0	0	0	0	0	0	0
+
+not	a	good	not	a	good	easy	way	to	get	in
+RB	DT	JJ	RB	DT	JJ	JJ	NN	TO	VB	IN
+0	0	0	I	I	I	0	0	0	0	0
+

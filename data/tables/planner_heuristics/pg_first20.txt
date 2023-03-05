@@ -1,0 +1,192 @@
+yeah	i	find	too	that	i	have	more	energy	when	i	exercise	and	you	know	it	's	silly	not	to	but	i	do	n't	know	it	's	just	a	put	off
+NN	NN	VBP	RB	IN	NNS	VBP	JJR	NN	WRB	NN	NN	CC	PRP	VBP	PRP	VBZ	RB	RB	TO	CC	NNS	VBP	RB	VB	PRP	VBZ	RB	DT	VBD	RP
+I	0	0	I	0	0	0	0	0	0	0	0	0	I	I	0	0	0	0	0	0	I	I	I	I	0	0	0	0	0	0
+
+i	do	n't	know	why	i	do	n't	do	more	and	i	and	i	know	that	it	's	good	for	my	health
+NNS	VBP	RB	VB	WRB	NNS	VBP	RB	VB	JJR	CC	NN	CC	NN	VBP	IN	PRP	VBZ	JJ	IN	PRP$	NN
+0	0	0	0	0	0	0	0	0	0	0	0	I	I	0	0	0	0	0	0	0	0
+
+i	know	you	know	from	everything	that	you	read	and	you	see	on	television	now	exercise	is	so	important	to	good	health
+NN	VBP	PRP	VBP	IN	NN	IN	PRP	VBP	CC	PRP	VBP	IN	NN	RB	NN	VBZ	RB	JJ	TO	JJ	NN
+0	0	I	I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+so	you	know	you	not	only	you	know	you	're	not	only	doing	something	to	keep	yourself	fit	but	you	're	probably	prolonging	your	life
+RB	PRP	VBP	PRP	RB	RB	PRP	VBP	PRP	VBP	RB	RB	VBG	NN	TO	VB	PRP	JJ	CC	PRP	VBP	RB	VBG	PRP$	NN
+0	I	I	I	I	I	I	I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+so
+RB
+I
+
+there	's	no	reason	that	we	should	n't	do	it	but	i	do	n't	know
+EX	VBZ	DT	NN	IN	PRP	MD	RB	VB	PRP	CC	VB	VBP	RB	VB
+0	0	0	0	0	0	0	0	0	0	I	I	I	I	I
+
+i	can	hear	the	accent	now	i	hear	the	i	hear	the	western	pennsylvania	um
+NN	MD	VB	DT	NN	RB	VBZ	VBP	DT	NN	VBP	DT	JJ	NN	NN
+0	0	0	0	0	0	0	0	0	I	I	I	0	0	I
+
+we	live	uh	we	lived	in	minneapolis	for	about	five	years
+PRP	VBP	IN	PRP	VBD	IN	NN	IN	IN	CD	NNS
+0	I	I	I	0	0	0	0	0	0	0
+
+we	we	originally	lived	in	dallas	and	we	met	and	got	married	and	then	um	actually	married	in	pittsburgh	and	that	's	that	's	not	what	they	want	to	hear	on	this	call	uh	at	any	rate	we	came	back	here	with	my	husband	was	transferred	around	uh	up	to	minnesota	and	now	back	to	texas	with	t	i	and	we	're	leasing	a	uh	two	story	town	home	in	a	section	of	dallas	they	call	north	dallas
+PRP	PRP	RB	VBD	IN	NNS	CC	PRP	VBD	CC	VBD	VBN	CC	RB	VB	RB	VBN	IN	NN	CC	DT	VBZ	DT	VBZ	RB	WP	PRP	VBP	TO	VB	IN	DT	NN	NN	IN	DT	NN	PRP	VBD	RB	RB	IN	PRP$	NN	VBD	VBN	IN	UH	RB	TO	VB	CC	RB	RB	TO	VB	IN	NN	NN	CC	PRP	VBP	VBG	DT	JJ	CD	NN	NN	NN	IN	DT	NN	IN	NN	PRP	VBP	JJ	NNS
+0	I	0	0	0	0	0	0	0	0	0	0	I	I	I	I	I	0	0	I	I	I	0	0	0	0	0	0	0	0	0	0	0	I	0	0	0	I	I	I	I	I	0	0	0	0	I	I	0	0	0	0	0	0	0	0	0	0	I	0	0	0	0	0	I	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+that	's	true
+DT	VBZ	JJ
+0	0	0
+
+we	saw	um	heroes	have	always	been	cowboys	tonight
+PRP	VBD	JJ	NNS	VBP	RB	VBN	JJ	NN
+0	0	I	0	0	0	0	0	0
+
+it	was	okay	it	was	kind	of	slow	and	i	felt	like	it	kind	of	got	chopped	off	at	the	end	you	know
+PRP	VBD	VBG	PRP	VBD	NN	IN	JJ	CC	JJ	VBP	IN	PRP	NN	IN	VBD	VBN	RP	IN	DT	NN	PRP	VBP
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	I	I
+
+it	just	it	i	do	n't	know	it	one	of	those	movies	it	's	not	going	to	be	around	long	it	will	be	a	dollar	movie	in	no	time
+PRP	RB	PRP	VBZ	VBP	RB	VB	PRP	CD	IN	DT	NNS	PRP	VBZ	RB	VBG	TO	VB	RB	JJ	PRP	MD	VB	DT	NN	NN	IN	DT	NN
+I	I	I	I	I	I	I	I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+well	i	heard	that	's	the	second	happiest	day	of	your	life	the	day	you	sell	your	boat
+RB	RB	VBP	DT	VBZ	DT	JJ	JJ	NN	IN	PRP$	NN	DT	NN	PRP	VBP	PRP$	NN
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+about	what	they	do
+IN	WP	PRP	VBP
+0	0	0	0
+
+no
+DT
+0
+
+but	i	my	grandparents	were	looking	into	it	before	so	i	know	what	they	've	said
+CC	VB	PRP$	NNS	VBD	VBG	IN	PRP	IN	IN	JJ	VBP	WP	PRP	VBP	VBD
+0	I	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+and	see	how	that	works
+CC	VB	WRB	DT	VBZ
+0	0	0	0	0
+
+an	experiment
+DT	NN
+0	0
+
+i	'd	like	to	try	you	know	just	try	something	new	every	year	that	i	have	n't	tried	before	and
+JJ	MD	VB	TO	VB	PRP	VB	RB	VB	NN	JJ	DT	NN	IN	NN	VBP	RB	VBN	IN	CC
+0	0	0	0	0	I	I	I	I	0	0	0	0	0	0	0	0	0	0	0
+
+a	relationship	with	their	father	and	and	i	do	n't	think	you	we	get	into	so	much	of	the	mother	dominating	figure	if	if	the	father	has	more	input	there
+DT	NN	IN	PRP$	NN	CC	CC	VB	VBP	RB	VB	PRP	PRP	VBP	IN	RB	JJ	IN	DT	NN	VBG	NN	IN	IN	DT	NN	VBZ	JJR	NN	RB
+0	0	0	0	0	0	I	0	0	0	0	I	0	0	0	0	0	0	0	0	0	0	I	0	0	0	0	0	0	0
+
+but	uh	i	do	n't	understand	why	the	young	girls	feel	like	they	have	to	build	roads	and	they	have	to	that	kind	of	job	uh	to	go	out	there	and	shovel	that	tar	and	and	drive	those	big	trucks
+CC	UH	NNS	VBP	RB	VB	WRB	DT	JJ	NNS	VBP	IN	PRP	VBP	TO	VB	NNS	CC	PRP	VBP	TO	DT	NN	IN	NN	NN	TO	VB	RP	RB	CC	VB	DT	NN	CC	CC	VBP	DT	JJ	NNS
+0	I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	I	I	I	I	I	I	0	0	0	0	0	0	0	0	I	0	0	0	0	0
+
+and	we	just	recently	finished	a	long	drive	through	the	west	a	little	over	five	thousand	miles	and	at	one	point	we	sat	down	uh	i	did	n't	realize	it	but	i	sat	at	a	counter	to	have	a	cup	of	coffee	that	happened	to	be	for	truck	drivers	only
+CC	PRP	RB	RB	VBD	DT	JJ	NN	IN	DT	JJS	DT	JJ	IN	CD	NNS	NNS	CC	IN	CD	NN	PRP	VBD	IN	NN	NN	VBD	RB	VB	PRP	CC	JJ	VBD	IN	DT	NN	TO	VB	DT	NN	IN	NN	WDT	VBD	TO	VB	IN	NN	NNS	RB
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+and	here	's	this	young	girl	with	the	tattoos	and	she	w	has	just	had	just	driven	a	load	of	meat	from	minneapolis	to	some	place	in	arizona	and	she	'd	been	and	i	ask	her	how	old	she	was	and	she	was	the	ag	between	the	age	of	our	daughters	and	she	had	been	driving	a	truck	for	seven	years
+CC	RB	VBZ	DT	JJ	NN	IN	DT	NN	CC	PRP	VBZ	VBZ	RB	VBN	RB	VBN	DT	NN	IN	NN	IN	NN	TO	DT	NN	IN	NN	CC	PRP	MD	VBN	CC	JJ	VBP	PRP$	WRB	JJ	PRP	VBD	CC	PRP	VBD	DT	NN	IN	DT	NN	IN	PRP$	NNS	CC	PRP	VBD	VBN	VBG	DT	NN	IN	CD	NNS
+0	0	0	0	0	0	0	0	0	0	0	I	I	I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	I	I	I	I	0	0	0	0	0	0	0	0	0	0	I	I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+and	i	thought	gosh	i	mean	why	would	a	woman	choose	that	rough	and	tumble	life	style	when	i	guess	i	'm	s	i	'm	a	maybe	victorian	and	my	husband	is	a	little	bit	of	a	male	chauvinist	in	that	he	's	a	very	considerate	person	but	he	also	thinks	a	woman	should	be	taken	care	of	and	and	in	the	home	and	she	should	vote	but	after	she	talks	to	her	husband	about	how	she	ought	to	vote
+CC	VB	VBN	NN	JJ	VBP	WRB	MD	DT	NN	NN	IN	NN	CC	JJ	NN	NN	WRB	NN	NN	NN	VBP	JJ	NN	VBP	DT	RB	JJ	CC	PRP$	NN	VBZ	DT	JJ	NN	IN	DT	JJ	NN	IN	DT	PRP	VBZ	DT	RB	JJ	NN	CC	PRP	RB	VBZ	DT	NN	MD	VB	VBN	NN	IN	CC	CC	IN	DT	NN	CC	PRP	MD	VB	CC	IN	PRP	VBZ	TO	PRP$	NN	IN	WRB	PRP	MD	TO	VB
+0	0	0	0	I	I	0	0	0	0	0	0	0	0	0	0	0	I	I	I	0	0	I	I	I	I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+now	it	probably	does	n't	work	that	way	in	our	household	because	i	have	strong	opinions	about	things	too	but	uh	i	like	being	taken	care	of
+RB	PRP	RB	VBZ	RB	VB	DT	NN	IN	PRP$	NN	IN	NN	VBP	JJ	NNS	IN	NNS	RB	CC	JJ	NNS	IN	VBG	VBN	NN	IN
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	I	0	0	0	0	0	0
+
+i	like	my	luggage	carried	and	my	door	opened	and	i	think	the	young	women	are	losing	that	and	i	think	that	's	sad
+NN	IN	PRP$	NN	VBD	CC	PRP$	NN	VBD	CC	JJ	VBP	DT	JJ	NNS	VBP	VBG	IN	CC	VB	VBP	DT	VBZ	JJ
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+oh	yes	oh	yes
+UH	UH	UH	NNS
+I	I	I	I
+
+well	you	're	not	a	starving	artist	yet	are	you
+RB	PRP	VBP	RB	DT	JJ	NN	RB	VBP	PRP
+0	0	0	0	0	0	0	0	0	0
+
+uh	huh	yeah	easier	targets	and	so	we	we	did	get	a	petition	together	and	we	very	strongly	resisted	it	and	it	was	placed	in	a	actually	it	was	placed	clear	closer	to	my	neighborhood	but	it	was	on	the	right	side	of	the	street
+JJ	NN	RB	JJR	NNS	CC	RB	PRP	PRP	VBD	VB	DT	NN	RB	CC	PRP	RB	RB	VBD	PRP	CC	PRP	VBD	VBN	IN	DT	RB	PRP	VBD	VBN	JJ	NN	TO	PRP$	NN	CC	PRP	VBD	IN	DT	JJ	NN	IN	DT	NN
+I	I	I	0	0	0	0	0	I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	I	I	I	I	I	I	I	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+
+
+
+
+right	right	yeah	not	something	you	'll	you	'll	uh	be	interested	in	ten	years	from	now	by	any	means
+RB	RB	MD	RB	NN	PRP	MD	PRP	MD	VB	VB	JJ	IN	JJ	NNS	IN	RB	IN	DT	NNS
+I	I	I	0	0	0	0	I	I	I	0	0	0	0	0	0	0	0	0	0
+
+you	know
+PRP	VBP
+I	I
+
+how	how	about	you
+WRB	WRB	IN	PRP
+0	I	0	0
+
+uh	i	guess	in	washington	d	c	you	guys	have	several	papers	that	are	pretty
+NN	NN	NN	IN	NN	NN	NN	PRP	VBP	VB	JJ	NNS	WDT	VBP	RB
+I	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+i	just	go	out	just	to	just	to	enjoy	it	and	not	really	spend	money	sometimes
+NN	RB	VB	RP	RB	TO	RB	TO	VB	PRP	CC	RB	RB	VB	NN	RB
+0	0	0	0	0	0	I	I	0	0	0	0	0	0	0	0
+
+uh	huh	and	then
+JJ	NN	CC	RB
+I	I	I	I
+
+uh	huh	uh	huh
+JJ	NN	NN	NN
+I	I	I	I
+
+is	uh	is	that	good
+VBZ	JJ	VBZ	IN	JJ
+0	I	I	0	0
+
+okay
+NN
+0
+
+and	i	edge	it	occasionally
+CC	NN	VBP	PRP	RB
+0	0	0	0	0
+
+well	i	think	that	would	be	kind	of	drastic	punishment
+RB	RB	VBP	DT	MD	VB	NN	IN	JJ	NN
+I	0	0	0	0	0	0	0	0	0
+
+yeah
+NN
+I
+
+so	i
+RB	JJ
+I	I
+
+yeah	and	if	you	know	when	you	when	you	have	to	look	in	their	eyes	and	you	know	hit	them	in	the	head	or	whatever	that	's	what	you	do	with	a	catfish	you	know	because	you	have	to	sever	their	spinal	cord
+NN	CC	IN	PRP	VBP	WRB	PRP	WRB	PRP	VBP	TO	VB	IN	PRP$	NNS	CC	PRP	VBP	VB	PRP	IN	DT	NN	CC	NN	DT	VBZ	WP	PRP	VBP	IN	DT	JJ	PRP	VBP	IN	PRP	VBP	TO	VB	PRP$	JJ	NN
+I	I	I	I	I	I	I	0	0	0	0	0	0	0	0	0	I	I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	I	I	0	0	0	0	0	0	0	0
+
+well	i	grew	up	in	california	and	then	i	went	to	school	in	utah	and	i	got	married	there	and	we	stayed	there	for	a	while	and	then	now	we	're	in	u	iowa
+RB	NN	VBD	RP	IN	NN	CC	RB	VB	VBD	TO	NN	IN	JJ	CC	JJ	VBD	VBN	RB	CC	PRP	VBP	EX	IN	DT	NN	CC	RB	RB	PRP	VBP	IN	JJ	NN
+I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	I	0	0	0	0	I	0
+
+i	guess	you	just	have	to	wonder	is	it	up	to	the	is	it	you	know	who	who	's	supposed	to	make	the	change	the	the	state	the	govern	the	federal	government	you	know	where	's	the	money	supposed	to	come	from
+NN	NN	PRP	RB	VBP	TO	VB	VBZ	PRP	IN	TO	DT	VBZ	PRP	PRP	VBP	WP	WP	VBZ	VBN	TO	VB	DT	NN	DT	DT	NN	DT	NN	DT	JJ	NN	PRP	VBP	WRB	VBZ	DT	NN	VBN	TO	VB	IN
+0	0	0	0	0	0	0	I	I	I	I	I	I	I	I	I	I	0	0	0	0	0	0	0	0	I	0	I	I	0	0	0	I	I	0	0	0	0	0	0	0	0
+
+is	it	you	know
+VBZ	PRP	PRP	VBP
+I	I	I	I
+

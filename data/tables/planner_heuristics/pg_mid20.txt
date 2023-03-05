@@ -1,0 +1,116 @@
+yeah	i	think	that	we	're	going	to	be	uh	owning	a	mini	van	for	some	years	to	come
+NN	NN	VBP	IN	PRP	VBP	VBG	TO	VB	JJ	VBG	DT	NN	NN	IN	DT	NNS	TO	VB
+I	0	0	0	0	0	0	0	0	I	0	0	0	0	0	0	0	0	0
+
+probably	till	the	kids	are	out	of	uh	high	school	anyway
+RB	VB	DT	NNS	VBP	IN	IN	JJ	JJ	NN	RB
+0	0	0	0	0	0	0	I	0	0	0
+
+well	th	there	are	exceptions	made	for	special	occasions	like	that
+RB	IN	EX	VBP	NNS	VBN	IN	JJ	NNS	IN	DT
+0	I	0	0	0	0	0	0	0	0	0
+
+but	the	ordinary	thing	is	to	stay	out	of	the	north	in	the	winter	and	get	out	of	texas	in	the	summer	so
+CC	DT	JJ	NN	VBZ	TO	VB	IN	IN	DT	NN	IN	DT	NN	CC	VB	IN	IN	NN	IN	DT	NN	IN
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	I
+
+uh	huh	uh	huh
+JJ	NN	NN	NN
+I	I	I	I
+
+those	i	can	understand
+DT	NNS	MD	VB
+0	0	0	0
+
+depends	on	what	's	going	on
+NNS	IN	WP	VBZ	VBG	IN
+0	0	0	0	0	0
+
+oh	that	's	my	husband	's	into	uh	computers
+IN	DT	POS	PRP$	NN	POS	IN	JJ	NNS
+I	I	I	0	0	0	0	0	I
+
+uh	huh
+NN	NN
+I	I
+
+no	i	have	n't
+DT	NN	VBP	RB
+0	0	0	0
+
+or	is	that	what	your	into	or
+CC	VBZ	IN	WP	PRP$	IN	CC
+I	0	0	0	0	0	I
+
+yeah	i	i	do	n't	care	for	rock	at	all
+NN	NN	NN	VBP	RB	VB	IN	NN	IN	DT
+I	I	0	0	0	0	0	0	0	0
+
+i	guess	i	'm	real	old	fashioned	in	my	musical	tastes
+JJ	NN	NN	VBP	JJ	JJ	VBN	IN	PRP$	JJ	NNS
+0	0	0	0	0	0	0	0	0	0	0
+
+well	wi	with	an	engineering	degree	it	's	of	course	it	's	a	whole	lot	easier
+RB	RB	IN	DT	NN	NN	PRP	VBZ	IN	NN	PRP	VBZ	DT	JJ	NN	JJR
+I	I	0	0	0	0	I	I	I	I	0	0	0	0	0	0
+
+oh	yeah	definitely
+UH	NN	RB
+I	I	0
+
+good	to	talk	to	you
+JJ	TO	VB	TO	PRP
+0	0	0	0	0
+
+well	i	think	we	covered	it
+RB	RB	VBP	PRP	VBD	PRP
+I	0	0	0	0	0
+
+no	there	was	a	woman	she	said	a	woman	my	my	best	friends	are	lawyers	a	woman	and	you	know	all	this	and	it	was	just
+DT	EX	VBD	DT	NN	PRP	VBD	DT	NN	PRP$	PRP$	JJS	NNS	VBP	NNS	DT	NN	CC	PRP	VBP	PDT	DT	CC	PRP	VBD	RB
+0	0	0	0	0	0	0	0	0	I	0	0	0	0	0	0	0	I	I	I	I	I	0	0	0	0
+
+i	know	but	i	bet	you	he	really	enjoys	riding	it
+NN	VBP	CC	VBP	RB	PRP	PRP	RB	VBZ	VBG	PRP
+I	I	I	0	0	0	0	0	0	0	0
+
+you	know	and	then	they	try	to	camouflage	the	top
+PRP	VBP	CC	RB	PRP	VBP	TO	VB	DT	NN
+I	I	0	0	0	0	0	0	0	0
+
+oh	he	is
+IN	PRP	VBZ
+I	0	0
+
+so	he	's	out	for	good
+IN	PRP	VBZ	RP	IN	JJ
+0	0	0	0	0	0
+
+yeah	uh	the	other	day	i	was	fishing	with	bread	uh	there	's	a	college	across	the	street	and	they	it	's	it	's	full	of	carp	and	uh	i	caught	a	carp	on	a	about	what	size	is	that	uh	i	think	it	was	a	number	two	treble	hook	and	it	's	huge	its	its	mouth	was	full	of	hooks
+NN	IN	DT	JJ	NN	NN	VBD	VBG	IN	JJ	NN	EX	VBZ	DT	NN	IN	DT	NN	CC	PRP	PRP	VBZ	PRP	VBZ	JJ	IN	NN	CC	JJ	NN	VBD	DT	NN	IN	DT	IN	WP	NN	VBZ	IN	JJ	NN	VBP	PRP	VBD	DT	NN	CD	JJ	NN	CC	PRP	VBZ	JJ	PRP$	PRP$	NN	VBD	JJ	IN	NNS
+I	I	0	0	0	0	0	0	0	0	I	0	0	0	0	0	0	0	I	I	I	I	0	0	0	0	0	0	I	0	0	0	0	0	0	I	I	I	I	I	I	0	0	0	0	0	0	0	0	0	0	0	0	0	I	0	0	0	0	0	0
+
+so	he	was	in	a	bad	way
+RB	PRP	VBD	IN	DT	JJ	NN
+0	0	0	0	0	0	0
+
+but	uh	it	's	he	was	fast
+CC	IN	PRP	VBZ	PRP	VBD	RB
+I	I	I	I	0	0	0
+
+he
+PRP
+0
+
+yeah	we	're	kind	of	used	to	that	here	in	utah	course	there	are	mountains	and	i	fly	into	montana	a	lot	and	we	have	a	the	mountains	are	are	really	uh	high	and	a	lot	of	places	we	go	in	to	you	just	kind	of	uh	it	's	in	the	little	valley	but	i	uh	sure	hope	we	we	really	need	the	moisture
+NN	PRP	VBP	NN	IN	VBN	TO	DT	RB	IN	JJ	NN	EX	VBP	NNS	CC	JJ	VBP	IN	FW	DT	NN	CC	PRP	VBP	DT	DT	NNS	VBP	VBP	RB	JJ	JJ	CC	DT	NN	IN	NNS	PRP	VBP	IN	TO	PRP	RB	NN	IN	NN	PRP	VBZ	IN	DT	JJ	NN	CC	JJ	JJ	JJ	NN	PRP	PRP	RB	VB	DT	NN
+I	0	0	0	0	0	0	0	0	0	0	I	0	0	0	0	0	0	0	0	0	0	0	I	I	I	0	0	0	I	I	I	0	0	0	0	0	0	0	0	0	0	I	I	I	I	I	0	0	0	0	0	0	I	I	I	I	I	I	0	0	0	0	0
+
+i	hope	we	can	get	uh	get	some
+NNS	VBP	PRP	MD	VB	JJ	VB	DT
+0	0	0	0	I	I	0	0
+
+there	's	supposed	to	be	a	storm	but	it	split	went	down	through	uh	northern	arizona	and	southern	utah	and	they	're	not	predicting	any	for	the	next	uh	week	anyway	up	here	so
+EX	VBZ	VBN	TO	VB	DT	NN	CC	PRP	VBD	VBD	RB	IN	JJ	JJ	NN	CC	JJ	NN	CC	PRP	VBP	RB	VBG	DT	IN	DT	JJ	NN	NN	RB	RB	RB	RB
+0	0	0	0	0	0	0	0	0	0	0	0	0	I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	I	0	0	0	0	I
+
