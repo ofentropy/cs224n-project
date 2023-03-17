@@ -1,4 +1,4 @@
-id,disfluent_sentence,fluent_tokens,disfluent_tokens,annotations,disfl_type,i0_indexing,disfluent_original
+id,disfluent_sentence,fluent_tokens,disfluent_tokens,annotations,disfl_type,io_indexing,disfluent_original
 4339-49,i think that we re snuff it no sorry we re going to be owning a mini van for some years to come,"['i', 'think', 'that', 'we', 're', 'going', 'to', 'be', 'owning', 'a', 'mini', 'van', 'for', 'some', 'years', 'to', 'come']","['i', 'think', 'that', 'we', 're', 'snuff', 'it', 'no', 'sorry', 'we', 're', 'going', 'to', 'be', 'owning', 'a', 'mini', 'van', 'for', 'some', 'years', 'to', 'come']","['F', 'F', 'F', 'D', 'D', 'D', 'D', 'D', 'D', 'F', 'F', 'F', 'F', 'F', 'F', 'F', 'F', 'F', 'F', 'F', 'F', 'F', 'F']",verb_with_cue,I 0 0 0 0 0 0 0 0 I 0 0 0 0 0 0 0 0 0,yeah i think that we 're going to be uh owning a mini van for some years to come
 4339-49,,,,,,0 0 0 0 0 0 0 I 0 0 0,probably till the kids are out of uh high school anyway
 3075-97,,,,,,0 I 0 0 0 0 0 0 0 0 0,well th there are exceptions made for special occasions like that

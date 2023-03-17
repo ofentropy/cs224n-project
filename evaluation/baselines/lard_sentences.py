@@ -5,7 +5,7 @@ class LARDSentence:
         self.fluent = metadata["fluent_sentence"]
         self.disfluent = metadata["disfluent_sentence"]
         self.id = metadata["id"]
-        self.i0 = metadata["i0_indexing"]
+        self.io = metadata["io_indexing"]
         self.metadata = metadata
 
     def __repr__(self):
@@ -29,7 +29,7 @@ class LARDSentences:
     def from_metadata(self, metadatas: list):
         for metadata in metadatas:
             sentence = LARDSentence(metadata)
-            if "I" in sentence.i0: # skip sentences that do not have disfluencies
+            if "I" in sentence.io: # skip sentences that do not have disfluencies
                 self.sentences_list.append(sentence)
                 sentences = self.sentences.get(metadata["id"], [])
                 sentences.append(sentence)
@@ -41,7 +41,7 @@ class LARDSentences:
             reader = csv.DictReader(csvfile)
             for row in reader:
                 sentence = LARDSentence(row)
-                if "I" in sentence.i0: # skip sentences that do not have disfluencies
+                if "I" in sentence.io: # skip sentences that do not have disfluencies
                     self.sentences_list.append(sentence)
                     sentences = self.sentences.get(row["id"], [])
                     sentences.append(sentence)

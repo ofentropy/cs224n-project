@@ -8,13 +8,13 @@ nltk.download('wordnet')
 
 lard = LARD()
 
-def lard_output_to_dict(lard_output, i0_indexing, id, disfluent_original):
+def lard_output_to_dict(lard_output, io_indexing, id, disfluent_original):
     return { "disfluent_sentence": lard_output[0],
             "fluent_tokens": lard_output[1],
             "disfluent_tokens": lard_output[2],
             "annotations": lard_output[3],
             "disfl_type": lard_output[4],
-            "i0_indexing": i0_indexing,
+            "io_indexing": io_indexing,
             "id": id,
             "disfluent_original":disfluent_original,
     }
@@ -34,7 +34,7 @@ def generate_lard_replacements(sentences: LARDSentences):
               print("OUTPUT: " + output[0])
             else:
               print("NO OUTPUT.")
-            output = lard_output_to_dict(output, sentence.i0, id, sentence.disfluent)
+            output = lard_output_to_dict(output, sentence.io, id, sentence.disfluent)
             temp = id_to_output.get(id, [])
             temp.append(output)
             id_to_output[id] = temp
@@ -58,18 +58,18 @@ def generate_lard_restarts(sentences: LARDSentences):
                     print("OUTPUT: " + output[0])
                 else:
                     print("NO OUTPUT.")
-                output = lard_output_to_dict(output, sen_1.i0, id, sen_1.disfluent)
+                output = lard_output_to_dict(output, sen_1.io, id, sen_1.disfluent)
                 temp = id_to_output.get(id, [])
                 temp.append(output)
                 id_to_output[id] = temp
     return id_to_output, has_output
 
-def get_disfluent_parts(disfl_arr, i0_arr):
-    assert len(disfl_arr) == len(i0_arr)
+def get_disfluent_parts(disfl_arr, io_arr):
+    assert len(disfl_arr) == len(io_arr)
 
     tokens = []
-    for i, i0_val in enumerate(i0_arr):
-        if i0_val == "I" or i0_val == "D":
+    for i, io_val in enumerate(io_arr):
+        if io_val == "I" or io_val == "D":
             tokens.append(disfl_arr[i])
     return tokens
 
@@ -83,7 +83,7 @@ def average_bleu_disfl_parts(outputs: dict):
           total+=1
           if output["disfluent_tokens"]:
             hypothesis = get_disfluent_parts(output["disfluent_tokens"], output["annotations"])
-            reference = get_disfluent_parts(output["disfluent_original"].split(), output["i0_indexing"].split())
+            reference = get_disfluent_parts(output["disfluent_original"].split(), output["io_indexing"].split())
             if not reference:
                 reference = [""]
             bleu = sentence_bleu([reference], hypothesis)
@@ -129,7 +129,7 @@ def average_bleu_disfl_sentence(outputs: dict):
 
 def export_outputs(save_path: str, outputs: list):
     with open(save_path, 'w', newline='') as csv_file:
-        fieldnames = ["id", "disfluent_sentence", "fluent_tokens", "disfluent_tokens", "annotations", "disfl_type", "i0_indexing", "disfluent_original"]
+        fieldnames = ["id", "disfluent_sentence", "fluent_tokens", "disfluent_tokens", "annotations", "disfl_type", "io_indexing", "disfluent_original"]
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         writer.writeheader()
         for _, output_arrays in outputs.items():

@@ -51,7 +51,7 @@ def convert_csv_to_txt(load_path: str, save_path: str, order_save_path = None):
         for row in temp:
             disfluent = "\t".join(row["disfluent_sentence"].split())
             pos_tags = "\t".join(row["pos_tags"].split())
-            i0 = "\t".join(row["i0_indexing"].split())
+            io = "\t".join(row["io_indexing"].split())
 
             if disfluent:
                 valid.append(row)
@@ -59,7 +59,7 @@ def convert_csv_to_txt(load_path: str, save_path: str, order_save_path = None):
             txt_file.write('\n')
             txt_file.write(pos_tags)
             txt_file.write('\n')
-            txt_file.write(i0)
+            txt_file.write(io)
             txt_file.write('\n')
             txt_file.write('\n')
     

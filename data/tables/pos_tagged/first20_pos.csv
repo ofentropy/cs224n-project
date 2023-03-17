@@ -1,4 +1,4 @@
-id,disfluent_sentence,fluent_sentence,i0_indexing,pos_tags
+id,disfluent_sentence,fluent_sentence,io_indexing,pos_tags
 2667-93,yeah i find too that i have more energy when i exercise and you know it 's silly not to but i do n't know it 's just a put off,i find that i have more energy when i exercise and it 's silly not to but it 's just a put off,I 0 0 I 0 0 0 0 0 0 0 0 0 I I 0 0 0 0 0 0 I I I I 0 0 0 0 0 0,NN NN VBP RB IN NNS VBP JJR NN WRB NN NN CC PRP VBP PRP VBZ RB RB TO CC NNS VBP RB VB PRP VBZ RB DT VBD RP
 2667-93,i do n't know why i do n't do more and i and i know that it 's good for my health,i do n't know why i do n't do more and i know that it 's good for my health,0 0 0 0 0 0 0 0 0 0 0 0 I I 0 0 0 0 0 0 0 0,NNS VBP RB VB WRB NNS VBP RB VB JJR CC NN CC NN VBP IN PRP VBZ JJ IN PRP$ NN
 2667-93,i know you know from everything that you read and you see on television now exercise is so important to good health,i know from everything that you read and you see on television now exercise is so important to good health,0 0 I I 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0,NN VBP PRP VBP IN NN IN PRP VBP CC PRP VBP IN NN RB NN VBZ RB JJ TO JJ NN

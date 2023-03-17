@@ -1,4 +1,4 @@
-id,text,fluent_text,disfluency_before_idx,disfluency_words,i0_indexing
+id,text,fluent_text,disfluency_before_idx,disfluency_words,io_indexing
 4339-49,"Yeah , I think that we 're going to be , uh , owning a mini van for some years to come . Probably till the kids are out of , uh , high school anyway .",I think that we ’re going to be owning a mini van for some years to come . Probably till the kids are out of high school anyway .,0;8;24,Yeah;uh;uh,I 0 0 0 0 0 0 0 0 I 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 I 0 0 0
 3075-97,"Well , th- , there are exceptions made for special occasions like that . But the ordinary thing is to stay out of the north in the winter and get out of Texas in the summer so , -","Well , there are exceptions made for special occasions like that . But the ordinary thing is to stay out of the north in the winter and get out of Texas in the summer -",1;32,th-;so,0 I 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 I
 2917-56,"Uh - huh , uh - huh .",,0,Uh huh uh huh,0 0 0 0
