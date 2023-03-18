@@ -1,7 +1,7 @@
 from nltk.translate.bleu_score import sentence_bleu
 from data.utterance import Utterance, Utterances
-from model_utterance import ModelUtterance, ModelUtterances
-import helpers
+from archive.model_utterance import ModelUtterance, ModelUtterances
+import archive.helpers as helpers
 from statistics import mean, median
 
 # Import ground truth
