@@ -6,7 +6,7 @@ def load(load_path: str, remove_fluent=False):
     ret = ModelUtterances()
     return ret.from_txt(load_path, remove_fluent)
 
-def get_stats(utterances: ModelUtterances):
+def get_stats(utterances: ModelUtterances, k=3):
     num_disfl_per_utter = []
     avg_disfl_len_per_utter = []
     all_insertion_idx = []
@@ -28,7 +28,6 @@ def get_stats(utterances: ModelUtterances):
 
     avg_disfl_len = mean(avg_disfl_len_per_utter)
     
-    k = 3
     k_idx = Counter(all_insertion_idx).most_common(k)
     k_num_disfl = Counter(num_disfl_per_utter).most_common(k)
     k_pos = Counter(all_pos_patterns).most_common(k)
