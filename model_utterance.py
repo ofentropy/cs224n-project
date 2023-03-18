@@ -1,7 +1,9 @@
+import csv
 # from nltk import pos_tag # uncomment in colab
 
 class ModelUtterance(object):
     def __init__(self, metadata):
+        self.metadata = metadata
         self.text_arr = metadata["text"]
         self.io_arr = metadata["io"]
         self.pos_arr = metadata["pos"]
@@ -70,5 +72,23 @@ class ModelUtterances(object):
                 i += 1
         
         return self
-        
+    
+
+    def from_csv(self, csv_path: str, remove_fluent=False, results=False):
+        self.metadatas = []
+        self.utterances = []
+        disfluent_key = "disfluent_original"
+        if results:
+            disfluent_key = "disfluent_sentence"
+        with open(csv_path, newline='') as csvfile:
+            reader = csv.DictReader(csvfile)
+            for row in reader:
+                metadata = {}
+                metadata["text"] = row[disfluent_key].split()
+                metadata["pos"] = pos_tag(metadata["text"])
+                metadata["io"] = row["io_indexing"].replace("0", "O").split()
+                utterance = ModelUtterance(metadata)
+                self.metadatas.append(metadata)
+                self.utterances.append(utterance)
+        return self
         
