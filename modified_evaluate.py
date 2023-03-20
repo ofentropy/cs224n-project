@@ -1,3 +1,4 @@
+# adapted and modified https://github.com/SALT-NLP/Disfluency-Generation-and-Detection/blob/main/disf_gen_coarse2fine/evaluate.py
 from __future__ import division
 import os
 import argparse
