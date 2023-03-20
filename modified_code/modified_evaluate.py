@@ -1,4 +1,5 @@
 # adapted and modified https://github.com/SALT-NLP/Disfluency-Generation-and-Detection/blob/main/disf_gen_coarse2fine/evaluate.py
+# use to run PG+LARD variants
 from __future__ import division
 import os
 import argparse
