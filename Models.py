@@ -1,3 +1,4 @@
+# adapted and modified from https://github.com/SALT-NLP/Disfluency-Generation-and-Detection/blob/main/disf_gen_coarse2fine/table/Models.py
 from __future__ import division
 import torch
 import torch.nn as nn
